@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu><!-- From: file:/C:/Users/Priya/AndroidStudioProjects/MyInstagramAndroid/library/src/main/res/menu/main.xml --><!-- From: file:/C:/Users/Priya/AndroidStudioProjects/MyInstagramAndroid/library/build/intermediates/bundles/debug/res/menu/main.xml -->
